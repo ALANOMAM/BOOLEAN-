@@ -1,0 +1,79 @@
+*{
+  padding:0;
+  margin:0;  
+}
+
+body{
+    background: url("image/background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+.box{
+    width: 600px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.479);
+}
+
+.logo{
+    width: 200px;
+    height: auto;
+    margin-left: 170px;
+}
+
+.titolo{
+    color:rgb(11, 210, 11);
+    margin-left: 130px;
+    }
+
+
+.bx1{
+    width: 400px;
+    height: auto;
+    margin-left: 50px;
+    padding-left: 110px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:rgb(11, 210, 11) ;
+    margin-bottom: 20px;
+}
+
+.utente{
+margin-left: 50px;  
+margin-bottom: 20px;
+}
+
+p{
+    color:lightgray
+}
+
+h3{
+    color: white;
+}
+
+
+/* STATO DI CARICA */
+.bx2{
+width: 200px;
+height: 20px;
+background-color: orange;
+border-radius: 5px;
+}
+
+.bx3{
+width: 300px;
+height: 20px;
+background-color: green;
+border-radius: 5px;
+}
+
+.bx4{
+width: 100px;
+height: 20px;
+background-color: brown;
+border-radius: 5px;
+}
